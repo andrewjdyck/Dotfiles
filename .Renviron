@@ -1,0 +1,2 @@
+# Example .Renviron
+DATA_PATH="/workspace/data" # Set default data directory
